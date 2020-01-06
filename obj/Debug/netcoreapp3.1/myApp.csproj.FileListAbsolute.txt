@@ -1,0 +1,11 @@
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\gnecc\Documents\Visual Studio 2019\Projects\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
